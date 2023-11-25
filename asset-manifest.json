@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/classguard/static/css/main.03a34c92.css",
-    "main.js": "/classguard/static/js/main.e0ee4010.js",
+    "main.css": "/classguard/static/css/main.a2fab248.css",
+    "main.js": "/classguard/static/js/main.9f76d29c.js",
     "static/js/787.d4aba7ab.chunk.js": "/classguard/static/js/787.d4aba7ab.chunk.js",
     "static/media/photo.png": "/classguard/static/media/photo.81c0423d1884298bf2d1.png",
     "static/media/like.png": "/classguard/static/media/like.171f7d4b492488585d4c.png",
@@ -11,12 +11,12 @@
     "static/media/dislikeRed.png": "/classguard/static/media/dislikeRed.3e1326e1b00a490cf9a2.png",
     "static/media/dislikeBlack.png": "/classguard/static/media/dislikeBlack.66c2eadde47a9a5eaf0d.png",
     "index.html": "/classguard/index.html",
-    "main.03a34c92.css.map": "/classguard/static/css/main.03a34c92.css.map",
-    "main.e0ee4010.js.map": "/classguard/static/js/main.e0ee4010.js.map",
+    "main.a2fab248.css.map": "/classguard/static/css/main.a2fab248.css.map",
+    "main.9f76d29c.js.map": "/classguard/static/js/main.9f76d29c.js.map",
     "787.d4aba7ab.chunk.js.map": "/classguard/static/js/787.d4aba7ab.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.03a34c92.css",
-    "static/js/main.e0ee4010.js"
+    "static/css/main.a2fab248.css",
+    "static/js/main.9f76d29c.js"
   ]
 }
